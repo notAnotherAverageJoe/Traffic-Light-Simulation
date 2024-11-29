@@ -1,0 +1,20 @@
+Project layout
+
+main.c
+traffic_light.h
+traffic_light.c
+Makefile
+
+
+
+things to add
+
+Add more features like handling multiple pedestrian crossings.
+Implement a more sophisticated traffic light system with timed traffic patterns.
+Improve user input handling and add error checking.
+
+
+the project simulates the real-time decision-making and I/O management
+  typically handled by embedded systems, making it a strong foundation for 
+  learning or transitioning to actual embedded development. it also uses a simple
+  control flow with minimal overhead.
